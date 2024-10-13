@@ -1,3 +1,9 @@
+<div>
+  <h2>Overall picture about Hexagonal structure</h2>
+  <img src="https://github.com/user-attachments/assets/744da5cf-a9ac-4f87-bd9d-fe8625d97885" alt="Girl in a jacket" width=80% height=80% margin="right: 10px left: 10px">
+</div>
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
